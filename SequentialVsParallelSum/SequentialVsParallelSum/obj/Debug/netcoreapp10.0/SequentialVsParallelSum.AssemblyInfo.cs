@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SequentialVsParallelSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e314280f10e8caae511fd02c51a65663114e1a98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98166d38dcd8e497fce7e44a3580616d2eaee34a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SequentialVsParallelSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SequentialVsParallelSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
